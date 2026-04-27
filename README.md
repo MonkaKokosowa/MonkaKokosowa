@@ -1,15 +1,15 @@
-# Hi there, I'm Monika Mąka 👋
+# Hi there, I'm Monika Mąka
 ### Ambitious Programmer | Hardware & Software Enthusiast 
 
-I'm a high school student with a deep passion for coding and technology. I love turning ideas into working projects—whether that means deploying scalable software to a cluster or soldering components for custom electronics. 
+I'm a high school student with a deep passion for coding and technology. I love turning ideas into working projects - whether that means deploying scalable software to a cluster or soldering components for custom electronics. 
 
-- 🌍 Located in **Częstochowa, Poland**
-- 🎓 Currently studying at **Liceum w Chmurze** (IT & Advanced English)
-- 🗣️ Bilingual: **Polish** (Native) & **English** (C1)
+-  Located in **Częstochowa, Poland**
+- Currently studying at **Liceum w Chmurze** (IT & Advanced English)
+- Bilingual: **Polish** (Native) & **English** (C1)
 
 ---
 
-## 💻 Tech Stack & Skills
+## Tech Stack & Skills
 
 | Category | Technologies & Tools |
 | :--- | :--- |
@@ -20,7 +20,7 @@ I'm a high school student with a deep passion for coding and technology. I love 
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 * **[Fotobudka](https://fotobudka.club)** A SaaS platform built for events like weddings. Guests scan a QR code to upload photos directly to a centralized dashboard for the organizers. 
     *Tech: AstroJS, TypeScript, Stripe, Prisma ORM, Postgres, Kubernetes*
@@ -36,14 +36,14 @@ I'm a high school student with a deep passion for coding and technology. I love 
 
 ---
 
-## 🎹 Beyond the Screen
+## Other stuff!
 
 When I'm not writing code or building hardware, I'm exploring a variety of creative and technical hobbies:
 `3D Printing` • `3D Modeling` • `Game Dev` • `Machine Learning` • `Digital Art` • `Photography` • `Piano`
 
 ---
 
-## 📬 Let's Connect
+## Let's talk
 
 * **Website:** [wheatflour.pl](https://wheatflour.pl)
 * **Email:** monica.flour@wheatflour.pl
