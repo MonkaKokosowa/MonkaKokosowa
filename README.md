@@ -4,7 +4,7 @@
 I'm a high school student with a deep passion for coding and technology. I love turning ideas into working projects - whether that means deploying scalable software to a cluster or soldering components for custom electronics. 
 
 -  Located in **Częstochowa, Poland**
-- Currently studying at **Liceum w Chmurze** (IT & Advanced English)
+- Graduated from **Liceum w Chmurze** (IT & Advanced English) in 2026
 - Bilingual: **Polish** (Native) & **English** (C1)
 
 ---
